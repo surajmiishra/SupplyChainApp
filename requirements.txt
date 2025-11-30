@@ -1,3 +1,4 @@
 ﻿# filepath: d:\SupplyChainApp\requirements.txt
 Flask
 SQLAlchemy
+Flask-SQLAlchemy
